@@ -52,4 +52,5 @@ for i in range(quantidade_pratos):
 print("\n========== RESUMO DO PEDIDO ==========")
 print(f"Os pratos que você pediu foram: {', '.join(pratos_pedidos)}")
 print(f"O valor total da sua conta deu: R$ {total_conta:.2f}")
+
 print("====================================")
